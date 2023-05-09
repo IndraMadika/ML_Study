@@ -1,0 +1,14 @@
+import numpy as np
+
+# Create sample data
+data = np.random.rand(10, 5)
+
+# Calculate mean and variance of the data
+mean = np.mean(data, axis=0)
+variance = np.var(data, axis=0)
+
+# Apply zero mean and unit variance normalization
+normalized_data = (data - mean) / np.sqrt(variance)
+
+print("Original data:\n", data)
+print("Normalized data:\n", normalized_data)
