@@ -1,4 +1,5 @@
 # ML_Study
+Fyi : This just for my self reverence!
 Understanding the concept of Machine Learning. Include Algorithm and the default code for all the features and models
 
 # Berikut ini adalah beberapa sub-bidang dalam machine learning dan contoh-contoh model yang sesuai dengan masing-masing sub-bidang tersebut:
